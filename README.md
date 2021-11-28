@@ -4,5 +4,3 @@ view isometric
 ![plot](./fotos/01.jpg)
 view top
 ![plot](./fotos/10.jpg)
-view
-![plot](./fotos/05.jpg)
