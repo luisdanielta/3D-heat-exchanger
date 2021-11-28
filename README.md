@@ -2,9 +2,7 @@
 # RENDERS
 view isometric
 ![plot](./fotos/01.jpg)
-02
+view top
 ![plot](./fotos/10.jpg)
-03
-![plot](./fotos/04.jpg)
-03
+view
 ![plot](./fotos/05.jpg)
